@@ -1,0 +1,55 @@
+
+
+##################
+Solutii obtinute cu A*:
+
+Solutie: 
+Mal: vest Canibali: [47, 51, 98, 77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 3 canibali si 0 misionari cantarind 226 kg.
+Mal: vest Canibali: [47] Misionari: [55, 120, 45, 80]          |||  Mal:est Canibali: [51, 98, 77] Misionari: [] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 77 kg.
+Mal: vest Canibali: [47, 77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [51, 98] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 2 canibali si 0 misionari cantarind 124 kg.
+Mal: vest Canibali: [] Misionari: [55, 120, 45, 80]          |||  Mal:est Canibali: [47, 51, 98, 77] Misionari: [] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 77 kg.
+Mal: vest Canibali: [77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [47, 51, 98] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 0 canibali si 3 misionari cantarind 245 kg.
+Mal: vest Canibali: [77] Misionari: [55]          |||  Mal:est Canibali: [47, 51, 98] Misionari: [120, 45, 80] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 1 misionari cantarind 178 kg.
+Mal: vest Canibali: [77, 98] Misionari: [55, 80] <barca>  |||  Mal:est Canibali: [47, 51] Misionari: [120, 45]        
+>>> Barca s-a deplasat de la malul vest la malul est cu 0 canibali si 2 misionari cantarind 135 kg.
+Mal: vest Canibali: [77, 98] Misionari: []          |||  Mal:est Canibali: [47, 51] Misionari: [55, 120, 45, 80] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 51 kg.
+Mal: vest Canibali: [77, 98, 51] Misionari: [] <barca>  |||  Mal:est Canibali: [47] Misionari: [55, 120, 45, 80]        
+>>> Barca s-a deplasat de la malul vest la malul est cu 3 canibali si 0 misionari cantarind 226 kg.
+Mal: vest Canibali: [] Misionari: []          |||  Mal:est Canibali: [47, 51, 98, 77] Misionari: [55, 120, 45, 80] <barca>
+
+Cost: 1339
+Nr noduri: 10
+Timpul: 3118 milisecunde
+----------------
+Solutie: 
+Mal: vest Canibali: [47, 51, 98, 77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 2 canibali si 0 misionari cantarind 175 kg.
+Mal: vest Canibali: [47, 51] Misionari: [55, 120, 45, 80]          |||  Mal:est Canibali: [98, 77] Misionari: [] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 77 kg.
+Mal: vest Canibali: [47, 51, 77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [98] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 3 canibali si 0 misionari cantarind 175 kg.
+Mal: vest Canibali: [] Misionari: [55, 120, 45, 80]          |||  Mal:est Canibali: [47, 51, 98, 77] Misionari: [] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 77 kg.
+Mal: vest Canibali: [77] Misionari: [55, 120, 45, 80] <barca>  |||  Mal:est Canibali: [47, 51, 98] Misionari: []        
+>>> Barca s-a deplasat de la malul vest la malul est cu 0 canibali si 3 misionari cantarind 245 kg.
+Mal: vest Canibali: [77] Misionari: [55]          |||  Mal:est Canibali: [47, 51, 98] Misionari: [120, 45, 80] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 1 misionari cantarind 178 kg.
+Mal: vest Canibali: [77, 98] Misionari: [55, 80] <barca>  |||  Mal:est Canibali: [47, 51] Misionari: [120, 45]        
+>>> Barca s-a deplasat de la malul vest la malul est cu 0 canibali si 2 misionari cantarind 135 kg.
+Mal: vest Canibali: [77, 98] Misionari: []          |||  Mal:est Canibali: [47, 51] Misionari: [55, 120, 45, 80] <barca>
+>>> Barca s-a deplasat de la malul est la malul vest cu 1 canibali si 0 misionari cantarind 51 kg.
+Mal: vest Canibali: [77, 98, 51] Misionari: [] <barca>  |||  Mal:est Canibali: [47] Misionari: [55, 120, 45, 80]        
+>>> Barca s-a deplasat de la malul vest la malul est cu 3 canibali si 0 misionari cantarind 226 kg.
+Mal: vest Canibali: [] Misionari: []          |||  Mal:est Canibali: [47, 51, 98, 77] Misionari: [55, 120, 45, 80] <barca>
+
+Cost: 1339
+Nr noduri: 10
+Timpul: 3120 milisecunde
+----------------

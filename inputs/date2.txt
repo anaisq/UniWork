@@ -1,0 +1,7 @@
+N=3
+12 45 32
+67 43 21
+M=1
+GMAX=200
+MalInitial=vest
+MalFinal=est
